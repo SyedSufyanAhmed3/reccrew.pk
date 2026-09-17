@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /php/
+Disallow: /vendor/
+Disallow: /uploads/
+
+Sitemap: https://raccre.pk/sitemap.xml
